@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Raghul%20Raja&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+secure%2C+production-grade+software;Full+Stack+Development;Member%2C+Cyber+Wolf+Team+%F0%9F%90%BA;Currently+shipping+WolfScanX+%F0%9F%9B%A1%EF%B8%8F;Learn+deeply.+Build+consistently.+Ship+real+products." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+secure%2C+production-grade+software;Full+Stack+Development;Learn+deeply.+Build+consistently.+Ship+real+products." alt="Typing SVG" />
 
 <br/>
 
