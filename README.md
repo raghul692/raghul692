@@ -37,7 +37,7 @@ I'm **Raghul Raja**, a Computer Science Engineering student who builds across th
 🤖  AI / ML                   →  applied models & AI-powered product features
 ```
 
-I'm a member of **Cyber Wolf Team**, where I work on offensive-security tooling and secure application architecture — while independently building AI/ML applications and full-stack SaaS products. I like owning a product end-to-end:
+My primary focus is Full Stack Development, while I also explore AI/ML, UI/UX, Cloud, and DevOps.
 
 **Research → Secure Architecture → UI/UX → Frontend → Backend → Database → AI Integration → Testing → Deployment**
 
