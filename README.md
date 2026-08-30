@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Raghul%20Raja&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Raghul%20Raja&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+secure%2C+production-grade+software;Full+Stack+Development+%7C+AI%2FML+%7C+Cybersecurity;Member%2C+Cyber+Wolf+Team+%F0%9F%90%BA;Currently+shipping+WolfScanX+%F0%9F%9B%A1%EF%B8%8F;Learn+deeply.+Build+consistently.+Ship+real+products." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+secure%2C+production-grade+software;Full+Stack+Development;Member%2C+Cyber+Wolf+Team+%F0%9F%90%BA;Currently+shipping+WolfScanX+%F0%9F%9B%A1%EF%B8%8F;Learn+deeply.+Build+consistently.+Ship+real+products." alt="Typing SVG" />
 
 <br/>
 
@@ -19,9 +19,9 @@
 
 <div align="center">
 
-| 🎓 Education | 🧭 Primary Focus | 🐺 Team | 🚀 Building Now | 📈 Learning Now |
-|:---:|:---:|:---:|:---:|:---:|
-| B.E. CSE — SKP Engineering College (2023–2027) · CGPA 8.1 | Full Stack Development | Cyber Wolf Team | WolfScanX | LLM Apps, RAG, AI Agents |
+| 🎓 Education | 🧭 Primary Focus  | 📈 Learning Now |
+|:---:|:---:|:---:|
+| B.E. CSE — SKP Engineering College (2023–2027) · CGPA 8.1 | Full Stack Development | LLM Apps, RAG, AI Agents |
 
 </div>
 
